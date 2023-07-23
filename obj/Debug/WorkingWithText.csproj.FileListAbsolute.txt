@@ -1,0 +1,3 @@
+D:\Simply Learn\self learning projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.AssemblyReference.cache
+D:\Simply Learn\self learning projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\self learning projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
